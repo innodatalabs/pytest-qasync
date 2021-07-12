@@ -15,7 +15,7 @@ setup(
     author_email="mkroutikov@innodata.com",
     description="Pytest support for qasync.",
     long_description=Path(__file__).parent.joinpath("README.md").read_text(),
-    long_description_mime='text/markdown',
+    long_description_content_type='text/markdown',
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
